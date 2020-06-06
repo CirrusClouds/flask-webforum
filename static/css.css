@@ -58,7 +58,7 @@ input[type='submit']:active {
 }
 
 .main-section + .main-section {
-	padding-top: 1;
+	padding-top: 0.5rem;
 }
 
 .main-section + .main-section::before {
@@ -67,7 +67,7 @@ input[type='submit']:active {
 	left: 45%;
 	width: 10%;
 
-	padding-bottom: 5rem;
+	padding-bottom: 3rem;
 
 	border-top: .75px rgba(0, 0, 0, .125) solid;
 	
